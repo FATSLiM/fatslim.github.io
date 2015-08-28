@@ -1,0 +1,30 @@
+---
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
+
+### Github-related stuff ###
+repository: FATSLiM/fatslim
+gems: ['jekyll-github-metadata']
+
+### content configuration ###
+title:       "FATSLiM"
+keywords:    "FATSLiM, Analysis software, Molecular Dynamics simulations, Lipid bilayer, Open source"
+description: "A fast and robust toolbox for the analysis of your MD simulations of lipid membranes!"
+source_link: "https://github.com/FATSLiM/fatslim.github.io"
+google_analytics_key: UA-65756606-1
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+
+kramdown:
+  auto_ids:  false
+
