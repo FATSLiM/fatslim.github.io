@@ -1,7 +1,7 @@
 ---
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, token, run_jekyll.sh, Gemfile]
 permalink: / ## disables post output
 timezone: null
 lsi: false
@@ -21,9 +21,12 @@ google_analytics_key: UA-54533824-2
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
+  black:     '#2D2D29'
+  white:     '#DFECE6'
+  color1:    '#3CA2A2'
+  color2:    '#215A6D'
+  color3:    '#92C7A3'
+  tag:       '#C44D58'
 
 kramdown:
   auto_ids:  false
