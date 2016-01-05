@@ -1,5 +1,5 @@
 
-&copy; 2015 [Sébastien Buchoux](https://seb-buch.github.io/)
+&copy; 2015-2016 [Sébastien Buchoux](https://seb-buch.github.io/)
 &mdash;
 This site is [open source]({{ site.source_link }})
 &mdash;
