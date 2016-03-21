@@ -17,6 +17,7 @@ title:       "FATSLiM"
 keywords:    "FATSLiM, Analysis software, Molecular Dynamics simulations, Lipid bilayer, Open source"
 description: "A fast and robust toolbox for the analysis of your MD simulations of lipid membranes!"
 source_link: "https://github.com/FATSLiM/fatslim.github.io"
+repo_link: "https://github.com/FATSLiM/fatslim"
 google_analytics_key: UA-54533824-2 
 
 ### template colors, used site-wide via css ###
