@@ -26,6 +26,7 @@ colors:
   color1:    '#3CA2A2'
   color2:    '#215A6D'
   color3:    '#92C7A3'
+  color4:    '#F0B888'
   tag:       '#C44D58'
 
 kramdown:
